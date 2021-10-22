@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Goumaz</h1>
 <h3 align="center">A full stack web developer </h3>
 
-- 🌱 My knowledge is **JavaScript, React, Redux, NodeJS, Express, Sequelize and PostgreSQL**, but open to learn another technology
+- 🌱 My knowledge is **JavaScript, Typescript, React, Redux, NodeJS, Express, Sequelize and PostgreSQL**, but open to learn another technology
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
